@@ -1,0 +1,215 @@
+
+Hello! Welcome to the OOD BattleSalvo Game!
+
+------------------------------------------------------
+Please enter a valid height and width below:
+------------------------------------------------------
+------------------------------------------------------
+Please enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+Remember, your fleet may not exceed size 6.
+------------------------------------------------------
+------------------------------------------------------
+
+Opponent Board Data:
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+
+Your Board:
+C  C  C  C  C  C
+_  _  _  _  _  _
+B  B  B  B  B  _
+_  _  S  S  S  _
+_  _  _  _  _  _
+D  D  D  D  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid shots. Please remember that the
+size of the board is [6, 6], inclusive. Coordinates start at 0
+from the top left. Try again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid shots. Please remember that the
+size of the board is [6, 6], inclusive. Coordinates start at 0
+from the top left. Try again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid shots. Please remember that the
+size of the board is [6, 6], inclusive. Coordinates start at 0
+from the top left. Try again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid shots. Please remember that the
+size of the board is [6, 6], inclusive. Coordinates start at 0
+from the top left. Try again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+
+Your Board:
+S  S  S  S  S  *
+.  _  _  _  _  _
+S  *  S  S  S  _
+_  _  S  S  S  _
+_  .  _  _  _  _
+S  S  S  S  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  *  *
+_  _  _  _  _  _
+*  *  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+
+Your Board:
+S  S  S  S  *  *
+.  _  _  _  _  .
+*  *  *  S  S  _
+_  _  S  S  S  _
+_  .  _  _  _  _
+S  S  S  S  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid input. Please remember that the
+input must be 2 integers separated by a space. Try entering the entire input again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid input. Please remember that the
+input must be 2 integers separated by a space. Try entering the entire input again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered invalid shots. Please remember that the
+size of the board is [6, 6], inclusive. Coordinates start at 0
+from the top left. Try again!
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+Uh Oh! You've entered an invalid line of input. Please remember that the
+input must be 2 integers separated by a space. Enter the corrected input:
+
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  *  *
+_  _  _  _  _  _
+*  *  *  *  *  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+
+Your Board:
+S  S  S  *  *  *
+.  .  _  _  _  .
+*  *  *  S  S  _
+_  .  S  S  S  _
+_  .  _  _  _  _
+S  S  S  S  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  *  *
+_  _  _  _  _  _
+*  *  *  *  *  _
+_  _  *  *  _  _
+_  _  _  _  _  _
+_  _  _  _  _  _
+
+Your Board:
+S  S  S  *  *  *
+.  .  _  _  .  .
+*  *  *  S  S  _
+.  .  S  S  S  _
+_  .  _  _  _  _
+S  S  S  S  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  *  *
+_  _  _  _  _  _
+*  *  *  *  *  _
+_  _  *  *  *  _
+_  _  _  _  _  _
+*  *  *  _  _  _
+
+Your Board:
+S  S  S  *  *  *
+.  .  _  _  .  .
+*  *  *  *  S  _
+.  .  *  S  S  _
+_  .  _  _  _  _
+S  S  S  S  _  _
+
+------------------------------------------------------
+Please Enter 4 Shots:
+------------------------------------------------------
+
+------------------------------------------------------
+Game Over: You win!
+------------------------------------------------------
+
+Opponent Board Data:
+*  *  *  *  *  *
+_  _  .  .  _  _
+*  *  *  *  *  _
+_  _  *  *  *  _
+_  _  _  _  _  _
+*  *  *  *  .  _
+
+Your Board:
+C  C  C  *  *  *
+.  .  .  _  .  .
+*  *  *  *  B  _
+.  .  *  S  S  _
+_  .  _  _  _  _
+D  D  D  D  _  _
+
